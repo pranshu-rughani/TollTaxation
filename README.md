@@ -5,7 +5,7 @@ If the commuter have insufficient balance than he would be requsted to pay cash.
 
 
 ## Repository description 
-- A Desktop web app create using flask.
+- A Desktop web app created using flask.
 - This is a prototype for point of sale.
 - Here registration of various comuters is already inserted and only point of sale software is created.
 - This is a working prortype where transaction is reflected on both the side.
